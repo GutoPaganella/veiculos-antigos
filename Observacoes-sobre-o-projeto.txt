@@ -1,0 +1,8 @@
+Este projeto foi reproduzido e modificado de acordo com as necessidades para um site de uma breve história dos veículos antigos. Podendo ser melhorado consideravelmente. Mas de momento é um artigo de estudo. Assim como os projetos anteriores. 
+
+Portanto alguns dos itens, não estão clicáveis. 
+
+
+Video Aula Base.
+https://www.youtube.com/watch?v=AZ1drCVTDgs
+
